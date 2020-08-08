@@ -1,0 +1,220 @@
+/* !-------------------------- SECTION CSS Variabls Starts -------------------------- */
+
+:root {
+    --main-color: #F26200;
+    --secondary-color: #F5ECDB;
+}
+/* *-------------------------- !SECTION CSS Variabls Ends-------------------------- */
+
+
+/* !------------------------ SECTION TYpography Starts ----------------------- */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Jost', sans-serif;
+}
+.text-lvl-primary {
+    color: var(--main-color);
+    font-size: 62px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.text-lvl-secondary {
+    font-size: 32px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.text-lvl-tartiary {}
+.text-lvl-quarternary {
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.text-lvl-quinary {
+    font-size: 16px;
+    font-weight: bold;
+    color: var(--main-color);
+    text-transform: uppercase;
+}
+.text-lvl-senary { 
+    font-size: 14px;
+    text-transform: capitalize;
+}
+/* *------------------------ !SECTION TYpography Ends ----------------------- */
+
+
+/* !---------------------------SECTION Header Area Starts --------------------------- */
+.header-area {
+    background-color: var(--secondary-color);
+}
+.header-area nav {
+    padding-top: 50px;
+}
+.header-area .navbar-custom {
+    background: transparent !important;
+}
+.header-area .brand-custom {
+    color: var(--main-color);
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.header-area .brand-custom:hover {
+    color: var(--main-color);
+}
+.header-area .nav-link-custom {
+    text-transform: capitalize;
+}
+.header-area__body-container {
+    padding: 100px 0;
+}
+.header-area__icon-container i {
+    color: #FFFFFF;
+    font-size: 14px;
+    width: 14px;
+    height: 14px;
+    background-color: var(--main-color);
+    border: 1px solid var(--main-color);
+    border-radius: 50%;
+    padding: 27px 32px 35px 30px;
+}
+
+/* *---------------------------!SECTION Header Area Ends --------------------------- */
+
+/* !---------------------- SECTION About Section Starts ---------------------- */
+.about-section__main-container {
+    padding: 90px 0;
+}
+.about-section__body-container .icon-container {
+    padding-bottom: 30px;
+}
+.about-section__body-container .icon-container i {
+    color: var(--main-color);
+    font-size: 50px;
+}
+.about-section__body-container .title {
+    padding-bottom: 20px;
+}
+.about-section__body-container .about-para-custom {
+    font-size: 17px;
+}
+/* *---------------------- !SECTION About Section Ends ---------------------- */
+
+/* !-------------------- SECTION Portfolio Section Starts -------------------- */
+
+
+/* *-------------------- SECTION Portfolio Section Ends -------------------- */
+
+
+
+
+/* !------------------- SECTION Testimonial Section Starts ------------------- */
+.testimonial-section {
+    padding: 100px 0;
+}
+.testimonial-section__review-card .custom-card-design {
+    background-color: var(--secondary-color);
+}
+.testimonial-section__main-container .custom-title {
+    color: var(--main-color);
+    font-weight: bold;
+    font-size: 18px;
+}
+.testimonial-section__main-container .card-img-custom {
+    width: 65px;
+    height: auto;
+}
+.testimonial-section__card-container .custom-card-para {
+    font-size: 16px;
+}
+/* *------------------- SECTION Testimonial Section Ends ------------------- */
+
+
+
+
+/* !---------------------- SECTION Brand Section Starts ---------------------- */
+.brand-section {
+    padding: 100px 0;
+}
+/* *---------------------- !SECTION Brand Section Ends ---------------------- */
+
+
+
+/* !---------------------- SECTION Footer Section Starts --------------------- */
+.footer-section {
+    background: var(--secondary-color);
+    padding: 50px 0;
+}
+.footer-top-section {
+    padding: 100px 0;
+}
+.custom-para-container {
+    font-size: 17px;
+}
+.contact-area__link {
+    font-size: 17px;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.footer-bottom-section__icon-container {
+    padding: 50px 0;
+}
+.footer-bottom-section__icon-container i {
+    font-size: 17px;
+    color: var(--main-color);
+}
+.footer-bottom-section__text-container .footer-bottom__custom-para {
+    font-size: 17px;
+}
+.custom-para-link {
+    color: var(--main-color);
+    text-decoration: none;
+}
+.custom-para-link:hover {
+    color: var(--main-color);
+    text-decoration: none;
+}
+
+
+/* *---------------------- !SECTION Footer Section Ends --------------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
